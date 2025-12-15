@@ -35,7 +35,7 @@ NANO TEST Deutschland kombiniert **moderne Technologien** und **wissenschaftlich
 ## Kontakt
 
 Besuchen Sie unsere Website für weitere Details: [https://nano-test.de](https://nano-test.de)  
-Oder kontaktieren Sie uns direkt: [https://nano-test.de/kontakt](https://nano-test.de/contact)
+Oder kontaktieren Sie uns direkt: [https://nano-test.de/kontakt](https://nano-test.de/contact/)
 
 ---
 
